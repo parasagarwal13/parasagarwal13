@@ -93,9 +93,17 @@ Focused on building systems that are:
 
 ---
 
+## 📌 Focus Areas
+- Scalable Cloud Architecture
+- Cost Optimization in AWS
+- Distributed Data Processing
+- Enterprise Automation Frameworks
+
+---
+
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal13&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal13&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
