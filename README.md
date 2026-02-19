@@ -94,7 +94,8 @@ Focused on building systems that are:
 ---
 
 ## 📈 GitHub Stats
-![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=parasagarwal13&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal13&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ---
 
