@@ -101,10 +101,4 @@ Focused on building systems that are:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasagarwal13&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400)
-
----
-
 > “Engineering is not about writing code — it’s about delivering measurable impact at scale.”
