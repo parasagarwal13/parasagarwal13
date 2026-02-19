@@ -101,4 +101,10 @@ Focused on building systems that are:
 
 ---
 
+## 📫 Connect with Me
+- LinkedIn: [Paras Agarwal](https://www.linkedin.com/in/parasiimer)
+- Email: paras.agarwal13@gmail.com
+
+---
+
 > “Engineering is not about writing code — it’s about delivering measurable impact at scale.”
